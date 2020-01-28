@@ -1,0 +1,79 @@
+﻿@model List<MvcApplication8.Models.Tableta>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "tabletasNoEntregadas";
+}
+
+<section class="p10"></section>
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Tabletas No entregadas</h1>
+            </div>
+        </div>
+
+        <div class="form-group ">
+            <div class="col-sm-4 col-sm-offset-3">
+                <button type="submit" class="btn boton btnPrimary btn-lg btn-block" onclick="location.href='@Url.Action("DownloadFileTabNoEntregadas", "Institucion")';"><span class="glyphicon glyphicon-save"></span> Descargar Lista</button>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="form-group">
+        <div class="col-sm-10 col-sm-offset-1">
+            <table width=100% class="table col-sm-12 table-hover table-condensed table-striped" id="tabladatos" align="left">
+                <thead>
+                    <tr class="bakinfo">
+                        <td width="5%">
+                            <h4>No.</h4>
+                        </td>
+                        <td width="20%">
+                            <h4>No. Serie</h4>
+                        </td>
+                        <td width="15%">
+                            <h4>CCT Institución</h4>
+                        </td>
+                        <td width="40%">
+                            <h4>Nombre Institución</h4>
+                        </td>
+                    </tr>
+                </thead>
+
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.No)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.serie)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.institucion)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre_institucion)
+                        </td>
+                    </tr>
+
+                }
+            </table>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+</section>

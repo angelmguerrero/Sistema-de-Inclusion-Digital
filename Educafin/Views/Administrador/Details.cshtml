@@ -1,0 +1,143 @@
+﻿@model Educafin.Models.institucion
+
+@{
+    ViewBag.Title = "Detalles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <section class="p10"></section>
+
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Institución</h1>
+                    <h2>Detalles</h2>
+                </div>
+            </div>
+
+
+            <div class="form-horizontal">
+                
+                <div class="form-group">
+                    <div class="col-sm-3 ">
+                        <label class="control-label">CCT:</label>
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.EditorFor(model => model.CCT, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.HiddenFor(model => model.CCT)
+                    </div>
+
+
+                    <div class="col-sm-8">
+                        <label class="control-label">Nombre:</label>
+                        @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-sm-3 ">
+                        <label class="control-label">Teléfono:</label>
+
+                        @Html.EditorFor(model => model.telefono, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.telefono, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-sm-3">
+                        <label class="control-label">Correo electrónico:</label>
+
+
+                        @Html.EditorFor(model => model.coreo, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.coreo, "", new { @class = "text-danger" })
+
+                    </div>
+
+                    <div class="col-sm-2 col-sm-offset-1">
+                        <label class="control-label">Nivel:</label>
+                        <select name="grado" id="grado" class="form-control", disabled = "disabled">
+
+                            <option value="S" @(Model.grado.Equals("S") ? "selected" : "" )>Superior</option>
+                            <option value="M" @(Model.grado.Equals("M") ? "selected" : "" )>Medio superior</option>
+                            <option value="C" @(Model.grado.Equals("C") ? "selected" : "" )>Secundaria</option>
+                            <option value="P" @(Model.grado.Equals("P") ? "selected" : "" )>Primaria</option>
+                            <option value="K" @(Model.grado.Equals("K") ? "selected" : "" )>Preescolar</option>
+                        </select>
+                    </div>
+
+
+                    <div class="btn-group col-sm-2" data-toggle="buttons" id="medioprovedor">
+                        <label name="" class="btn boton btnAlter col-sm-12  @(Model.medioprovedor.Equals(true) ? "active" : "" ) " data-toggle="tooltip" title="" data-prog="">
+                            @Html.CheckBoxFor(model => model.medioprovedor, new { htmlAttributes = new { @class = "chelabl" } })
+                            <input type="checkbox" class="chelabl" id="" name="" autocomplete="on", disabled = "disabled">
+                            <span class="glyphicon glyphicon-ok"></span> Oficinas
+                        </label>
+
+                        @Html.ValidationMessageFor(model => model.medioprovedor, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-3">
+                        <label class="control-label">Código postal:</label>
+                        @Html.EditorFor(model => model.codigopostal, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.codigopostal, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-sm-4">
+                        <label class="control-label">Estado:</label>
+                        @Html.EditorFor(model => model.estado, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.estado, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-sm-4">
+                        <label class="control-label">Municipio:</label>
+                        @Html.EditorFor(model => model.municipio, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.municipio, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-3 ">
+                        <label class="control-label">Colonia:</label>
+                        @Html.EditorFor(model => model.colonia, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.colonia, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-sm-4">
+                        <label class="control-label">Calle:</label>
+                        @Html.EditorFor(model => model.calle, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.calle, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-sm-2">
+                        <label class="control-label">Número:</label>
+                        @Html.EditorFor(model => model.numero, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.ValidationMessageFor(model => model.numero, "", new { @class = "text-danger" })
+                    </div>
+
+                    
+                </div>
+
+                <div class="form-group">
+                    
+                    <div class="col-sm-3 col-sm-offset-4">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

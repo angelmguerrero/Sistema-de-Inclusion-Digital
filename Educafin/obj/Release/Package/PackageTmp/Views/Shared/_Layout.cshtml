@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.educafin.com/templates/educafin/favicon.ico">
+
+</head>
+<body>
+
+    <header>
+        <div class="menu_top">
+            <div class="col-sm-6">
+                <a href="../../login/inicio.html"><img src="../../img/logo.png" alt="Educafin" class="logo_top" /></a>
+            </div>
+            <div class="col-sm-6"> </div>
+        </div>
+        <div class='menu'>
+            <span class='toggle'>
+                <i></i>
+                <i></i>
+                <i></i>
+            </span>
+            <div class='menuContent'>
+                <a href="../login/inicio.html"><img src="../../img/logo.png" alt="Educafin" /></a>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </header>
+    <div class='menu_resp'>
+        <div class="top">
+            <div class="col-xs-6">
+                <a href="../login/inicio.html"><img src="../../img/logo.png" alt="Educafin" /></a>
+            </div>
+            <div class="col-xs-6"> <i class="fa fa-bars glyphicon glyphicon-menu-hamburger"></i> </div>
+        </div>
+        <nav>
+            @Html.Partial("_LoginPartial")
+        </nav>
+    </div>
+
+
+
+    <section class="p40"></section>
+    <section class="p10"></section>
+
+    <section class="container">
+        @RenderBody()
+    </section>
+
+
+    <section class="p20"></section>
+
+
+    <footer>
+        <div id="footer">
+            <div id="bottom">
+                <div class="custom">
+                    <div class="col-sm-6 p30 texto">
+                        <p>
+                            <span style="color: #ffffff;">Fray Martín de Valencia 102 Fracc. Santo Domingo, León, Gto.</span>
+                            <br /><span style="color: #ffffff;">Tel. 01 (477) 710 3400. <span>Horario de atención oficina León 9:00am a 5:00 pm</span></span>
+                            <br /><span style="color: #ffffff;"><span>(01 800) 832 6272 (atención a créditos). Horario de atención telefónica de 7:00 am a 9:00 pm</span></span>
+                            <br /><span style="color: #ffffff;">(01 800) 841 7350 (atención a becas). Horario de atención telefónica de 7:00 am a 9:00 pm</span>
+                        </p>
+                    </div>
+                    <div class="col-sm-6 p20 logofondo">
+                        <a href="http://www.educafin.com/" target="_blank"> <img src="../../img/logo.png" alt="Educafin" /> </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+        
+        
+        
+    
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+
+</body>
+</html>

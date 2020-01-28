@@ -1,0 +1,99 @@
+﻿@model List<Educafin.Models.Alumno>
+
+@{
+    ViewBag.Title = "RegistroTablet";
+    string pertenece = (String)Session["pertenece"];
+    string grado = (String)Session["grado"];
+
+}
+
+
+    <section class="p10"></section>
+
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Beneficiarios</h1>
+                    <h2>Registrados</h2>
+
+                    <div class="@TempData["error"]">
+                        @TempData["message"]
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div class=" col-sm-offset-2">
+
+                @using (Html.BeginForm())
+                {
+                    @Html.ValidationSummary(true)
+
+                    <div class="form-group">
+                        <div class="col-sm-4">
+                            <label class="control-label">CURP:</label>
+                            <input type="text" class="form-control" name="curp" id="AUcurp">
+                        </div>
+                        <div class="col-sm-4">
+                            <label class="control-label">Matricula:</label>
+                            <input type="text" class="form-control" name="matricula" id="AUmatricula">
+                            <input type="hidden" name="parametro" id="parametro" value="consulta" />
+                        </div>
+                    </div>
+                }
+
+
+                <div class="form-group" id="tabladatosalumno">
+                    <!--style="display:none;"-->
+                    <div class="col-sm-8">
+                        <table width=100% class="table table-hover table-condensed table-striped" id="datos" align="left">
+                            <thead>
+                                <tr class="bakinfo" >
+                                    <td width="32%">
+                                        <h4>CURP</h4>
+                                    </td>
+                                    <td width="18%">
+                                        <h4>Matricula</h4>
+                                    </td>
+                                    <td width="50%">
+                                        <h4>Nombre</h4>
+                                    </td>
+                                </tr>
+                            </thead>
+                                <tr >
+                                    <td class="curpT"></td>
+                                    <td class="matriculaT"></td>
+                                    <td class="nombreT"></td>
+                                </tr>
+                            
+                        </table>
+                    </div>
+                </div>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.ValidationSummary(true)
+
+                    <div class="form-group" style="margin-top: -20px">
+                        <div class="col-sm-8" id="datosTablet">
+
+                           
+                                <input type="hidden" id="curp" name="curp" class="curpM"/>
+                                <input type="hidden" id="matricula" name="matricula" class="matriculaM"  />
+                                <label class="control-label">Número de serie:</label>
+                                <input type="text" class="form-control" name="serie" id="Auserie">
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-sm-offset-2">
+                        <button type="submit" class="btn botonM btnAlter btn-lg btn-block" id="btnguardar"><span class="glyphicon glyphicon-ok"></span> Guardar</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+
+
+

@@ -1,0 +1,64 @@
+﻿@using Educafin.Models
+@model RegistroViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Registro";
+}
+
+    <section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>sistema de Inclusión digital</h1>
+                <h2>Registro</h2>
+                <label>*Ingresa tu curp para proceder con tu registro</label>
+            </div>
+        </div>
+        <form class="form-horizontal col-sm-offset-1" role="form" action="../Beneficiario/Registrado" method="POST">
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+           
+            <div class="col-sm-4">
+                <div class="form-group">
+                    
+                       
+                            <label class="control-label">CURP:</label>
+                            <input type="text" class="form-control" name="curp" id="curp" placeholder="CURP">
+                        
+                    </div>
+
+                    <div class="form-group">
+                            <label>Correo</label>
+                            @*@Html.LabelFor(m => m.Email, new { @class = " control-label" })*@
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        
+                    </div>
+
+                    <div class="form-group">
+                            <label>Confirmar Correo</label>
+                            @*@Html.LabelFor(m => m.EmailV, new { @class = "control-label" })*@
+                            @Html.TextBoxFor(m => m.EmailV, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.EmailV, "", new { @class = "text-danger" })
+                       
+                    </div>
+
+
+                </div>
+                
+
+                <div class="col-sm-3 col-sm-offset-2">
+                    <div class="form-group" style="margin-top: 75px;">
+                        <button type="submit" class="btn botonM btnPrimary btn-lg btn-block"><span class="glyphicon glyphicon-ok"></span> Registrar</button>
+                    </div>
+                    <div class="form-group">
+                        <button type="button" onclick="location.href='@Url.Action("Index", "Home")'" class="btn boton btnDanger btn-lg btn-block">
+                            <span class="glyphicon glyphicon-remove"></span> Regresar
+                        </button>
+                    </div>
+
+                    
+                </div>
+        </form>
+    </div>
+</section>

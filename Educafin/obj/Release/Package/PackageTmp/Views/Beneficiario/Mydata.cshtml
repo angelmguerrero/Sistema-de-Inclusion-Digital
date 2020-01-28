@@ -1,0 +1,100 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Mydata";
+}
+
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Mis Datos</h1>
+                    <h2>Modificar</h2>
+                </div>
+            </div>
+            <form class="form-horizontal" role="form" action="../Beneficiario/updAcuses" method="POST">
+
+                <div class="form-group">
+                    <div class="col-sm-3 ">
+                        <label class="control-label">Teléfono de casa:</label>
+                        <input type="number" value="@ViewData["telefono"]" class="form-control" name="telefonoc" id="telefonoc" placeholder="Teléfono de casa">
+                    </div>
+                    <div class="col-sm-3">
+                        <label class="control-label">Teléfono celular:</label>
+                        <input type="number" value="@ViewData["celular"]" class="form-control" name="telefonocl" id="telefonocl" placeholder="Teléfono celular">
+                    </div>
+
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-sm-3">
+                        <label class="control-label">Código postal:</label>
+                        <input type="number" value="@ViewData["codigopostal"]" class="form-control" name="codigopostal" id="codigopostal" placeholder="Código Postal">
+                    </div>
+                    <div class="col-sm-4">
+                        <label class="control-label">Estado:</label>
+                        <input type="text" value="@ViewData["estado_r"]" class="form-control" name="estado" id="estado" placeholder="Estado">
+                    </div>
+                    <div class="col-sm-4">
+                        <label class="control-label">Municipio:</label>
+                        <input type="text" value="@ViewData["municipio"]" class="form-control" name="municipio" id="municipio" placeholder="Municipio">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-3 ">
+                        <label class="control-label">Colonia:</label>
+
+                        <select class="form-control" name="colonia" id="colonia">
+                            <option>@ViewData["colonia"]</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-4">
+                        <label class="control-label">Calle:</label>
+                        <input type="text" value="@ViewData["calle"]" class="form-control" name="calle" id="calle" placeholder="Calle">
+                    </div>
+                    <div class="col-sm-2">
+                        <label class="control-label">Número Ext:</label>
+                        <input type="text" value="@ViewData["num_ext"]" class="form-control" name="numExt" id="numExt" placeholder="Número Ext">
+                    </div>
+                    <div class="col-sm-2">
+                        <label class="control-label">Número Int:</label>
+                        <input type="text" value="@ViewData["num_int"]" class="form-control" name="numInt" id="numInt" placeholder="Número Int">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-3">
+                        <!--style="display:none;"-->
+                        <label> Cuento con alguna credencial..</label>
+                    </div>
+                    <div class="col-sm-1">
+                        <div class="btn-group" data-toggle="buttons" id="programas">
+                            <label name="" class="btn boton btnAlter col-sm-12 active" data-toggle="tooltip" title="" data-prog="">
+                                <input type="checkbox" class="chelabl" id="" name="" autocomplete="off" checked>
+                                <span class="glyphicon glyphicon-ok"></span> Si
+                            </label>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-7">
+                        <label class="control-label">Nombre de tutor:</label>
+                        <input type="text" class="form-control" name="tutor" id="tutor" placeholder="Nombre de tutor">
+                    </div>
+                </div>
+
+
+                <div class="form-group ">
+                    <div class="col-sm-3 col-sm-offset-2">
+                        <button type="submit" class="btn boton btnPrimary btn-lg btn-block"><span class="glyphicon glyphicon-ok"></span> Guardar
+                        </button>
+                    </div>
+                    <div class="col-sm-3 col-sm-offset-1">
+                        <button type="reset" class="btn boton btnDanger btn-lg btn-block" id="reset"><span class="glyphicon glyphicon-remove"></span> Cancelar</button>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </section>

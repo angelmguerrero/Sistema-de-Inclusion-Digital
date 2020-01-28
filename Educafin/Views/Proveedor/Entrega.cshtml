@@ -1,0 +1,150 @@
+﻿@model List<MvcApplication8.Models.Entregas>
+
+<div class="col-sm-11 col-sm-offset-1 form-horizontal">
+    <div class="form-group ">
+        <div class="text-left ">
+            <h1>Entregas</h1>
+            <h2>Registro</h2>
+        </div>
+
+    </div>
+
+    <div class="alert @TempData["error"]">
+        @TempData["message"]
+    </div>
+    @using (Html.BeginForm())
+            {
+        <div class="form-group">
+            <div class="col-sm-4">
+                <label class="control-label">Intitución:</label>
+
+                <input type="text" class="form-control" name="cct_int" id="cct_int" placeholder="Intitución">
+                <input id="tags" style="border:none" readonly="readonly">
+            </div>
+            <div class="col-sm-2" id="canti">
+                <label class="control-label">Cantidad:</label>
+                <input type="number" class="form-control" name="Cantidad" id="Cantidad" placeholder="Cantidad" min="1">
+            </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-4" id="res">
+                    <label class="control-label">Responsable:</label>
+                    <input type="text" class="form-control" name="responsable" id="responsable" placeholder="responsable">
+                </div>
+                <div class="col-sm-3" id="fech">
+                    <label class="control-label">Fecha:</label>
+                    <input type="datetime-local" class="form-control" name="fecha" id="fecha">
+                </div>
+
+                <div class="col-sm-2">
+                    <button type="submit" id="guardaentrega" class="btn botonM btnAlter btn-lg btn-block"><span class="glyphicon glyphicon-saved"></span> Guardar</button>
+                </div>
+            </div>
+    }
+
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h2>Datos de entrega</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group col-sm-11">
+        <table>
+            <table width=100% class="table  table-hover table-condensed table-striped" id="tablaLista" align="left">
+                <thead>
+                    <tr class="bakinfo">
+                        <td width="5%">
+                            <h4>No.</h4>
+                        </td>
+                        <td width="30%">
+                            <h4>Intitución</h4>
+                        </td>
+                        <td width="15%">
+                            <h4>Cantidad</h4>
+                        </td>
+                        <td width="15%">
+                            <h4>Fecha</h4>
+                        </td>
+                        <td width="15%">
+                            <h4>Estado</h4>
+                        </td>
+                        <td width="15%">
+                            <h4>responsable</h4>
+                        </td>
+                        <td width="5%"> </td>
+                    </tr>
+                </thead>
+
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.No)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.cantidad)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.fecha_hora)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.estatus)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.responsable)
+                        </td>
+                        @{var fec = item.fecha_hora;
+                            //DateTime fechaHoy = DateTime.Now;
+                            //DateTime dt = Convert.ToDateTime(fec);
+                            //dt.ToString("dd/MM/yyyy hh:mm");
+                            //fechaHoy.ToString("dd/MM/yyyy hh:mm");
+                            //if (fechaHoy < dt)
+                            //{
+                                <td align="center">
+                                    <button data-toggle="tooltip" type="button"
+                                            onclick="location.href='@Url.Action("EntradaModificarMP", "Proveedor", new { id = item.nombre, id4 = item.clave })'"
+                                            class="btn botonf gira  btnDanger btn-circle">
+                                        <i class="glyphicon glyphicon-pencil"></i>
+                                    </button>
+                                </td>
+                                //}
+                            }
+                  </tr>
+                            }
+
+            </table>
+    </div>
+    </div>
+    <script type="text/javascript">
+        $("#guardaentrega").hide();
+        $("#Cantidad").change(function () {
+            if ($("#responsable").val() != "" && $("#fecha").val() != "" && $("#Cantidad").val() != 0) {
+                $("#guardaentrega").show();
+            } else {
+                $("#guardaentrega").hide();
+            }
+        });
+        $("#responsable").change(function () {
+            if ($("#responsable").val()!="" && $("#fecha").val()!="" && $("#Cantidad").val()!=0) {
+                $("#guardaentrega").show();
+
+            } else {
+                $("#guardaentrega").hide();
+            }
+        });
+        $("#fecha").change(function () {
+            if ($("#responsable").val() != "" && $("#fecha").val() != "" && $("#Cantidad").val() != 0) {
+                $("#guardaentrega").show();
+
+            } else {
+                $("#guardaentrega").hide();
+            }
+
+
+        });
+    </script>

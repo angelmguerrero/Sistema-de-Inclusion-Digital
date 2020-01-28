@@ -1,0 +1,43 @@
+﻿@model MvcApplication8.Models.Entregas
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+ <div>
+       
+    </div>
+
+ <div>
+        
+    </div>
+
+<input type="text" class="form-control" name="cct_int" id="cct_int" placeholder="Intitución">
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript">
+             $(document).ready(function () {
+                 $("#cct_int").autocomplete({
+                     source: function (request, response) {
+                         $.ajax({
+                             url: "/Proveedor/autocompletadoentrega",
+                             type: "POST",
+                             dataType: "json",
+                             data: { cct_int: request.term },
+                             success: function (data) {
+                                 response($.map(data, function (item) {
+                                     return { label: item.nombre, value: item.nombre };
+                                 }))
+                             }
+                         })
+                     },
+                     messages: {
+                         noResults: "", results: ""
+                     }
+                 });
+             })
+</script>   

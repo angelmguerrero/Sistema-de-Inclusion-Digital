@@ -1,0 +1,57 @@
+﻿
+
+@model List<Educafin.Models.Alumno>
+
+@{
+    ViewBag.Title = "InstitucionAdmin";
+
+}
+
+<body>
+    <section class="p10"></section>
+    <div class="form-group">
+        <table width=100% class="table col-sm-12 table-hover table-condensed table-striped" id="tabladatos" align="left">
+            <thead>
+                <tr class="bakinfo">
+                    <td width="20%">
+                        <h4>No.</h4>
+                    </td>
+                    <td width="20%">
+                        <h4>CCT</h4>
+                    </td>
+                    <td width="30%">
+                        <h4>Nombre</h4>
+                    </td>
+                    <td width="10%">
+                        <h4>   </h4>
+                    </td>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.no)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.cct)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.cctNombre)
+                    </td>
+                    <td align="center">
+
+                        <form class="form-horizontal" role="form" action="../Administrador/ListaBenefTablet" method="POST">
+                            <input type="hidden" class="form-control" name="cct" id="cct" value="@Html.DisplayFor(modelItem => item.cct)">
+                            <button data-toggle="tooltip" title="@Html.DisplayFor(modelItem => item.cctNombre)" type="submit" class="btn botonf gira  btn-primary btn-circle">
+                                <i class="glyphicon glyphicon-eye-open"></i>
+                            </button>
+                        </form>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+
+
+

@@ -1,0 +1,15 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Contraseña cambiada";
+}
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<h3>@ViewData["resultado"] </h3>
+
+<div class="form-group">
+    <div class="col-sm-3 col-sm-offset-4">
+        <button type="button" onclick="location.href='@Url.Action("Index", "Home")'" class="btn boton btnDanger btn-lg btn-block">
+            <span class="glyphicon glyphicon-remove"></span> Regresar
+        </button>
+    </div>
+</div>

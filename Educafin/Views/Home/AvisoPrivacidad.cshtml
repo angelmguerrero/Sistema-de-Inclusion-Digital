@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "AvisoPrivacidad";
+}
+
+<style type='text/css'>
+    h5 {
+        color: #333333;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    }
+</style>
+<style type='text/css'>
+    h4 {
+        color: #FF1704;
+        font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    }
+</style>
+
+
+
+
+    <div class="login-container">
+  
+        <div class="@TempData["error"]">
+            @TempData["message"]
+        </div>
+
+            <h4 ALIGN="center"><b>Aviso de privacidad:</b></h4>
+            <h5 ALIGN="justify">
+                    Los datos recabados serán protegidos, incorporados a la base de datos del «EDUCAFIN»
+                    para los objetivos del «Programa de Impulso para la Inclusión Digital», con fundamento en la Ley de Protección
+                    de datos personales para el Estado y los Municipios de Guanajuato. Así mismo le informamos que usted tiene el
+                    derecho de acceder a sus datos personales que poseemos y a los detalles del tratamiento de los mismos,
+                    así como a rectificarlos en caso de ser inexactos o instruirnos cancelarlos cuando considere que resulten ser
+                    excesivos o innecesarios para las finalidades que justificaron su obtención u oponerse al tratamiento de los mismos
+                    para fines específicos.
+            </h5>
+                  
+     
+        <form class="" role="form" action="" method="post">
+            <div class="form-group">
+                    <input type="checkbox" name="avisoPriv"> <b>He leído y acepto el aviso de privacidad.</b>
+                    <button type="submit" class="btn botonM btn btn-primary btn-lg btn-block"><span class="glyphicon glyphicon-share"></span>Enviar</button>
+      
+            </div>
+        </form> 
+
+            <br/>
+      
+  
+
+    </div>

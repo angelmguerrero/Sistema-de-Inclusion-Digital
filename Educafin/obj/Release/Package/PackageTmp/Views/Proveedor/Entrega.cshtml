@@ -1,0 +1,140 @@
+﻿@model List<MvcApplication8.Models.Entregas>
+
+@{
+    ViewBag.Title = "Entrega";
+}
+
+
+    <section class="p10"></section>
+
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Entregas</h1>
+                    <h2>Registro</h2>
+                </div>
+            </div>
+
+            @using (Html.BeginForm())
+            {
+
+                <div class="form-group">
+                    <div class="col-sm-4">
+                        <label class="control-label">Intitución:</label>
+
+                        <input type="text" class="form-control" name="cct_int" id="cct_int" placeholder="Intitución">
+
+                    </div>
+                    <div class="col-sm-2">
+                        <label class="control-label">Cantidad:</label>
+                        <input type="number" class="form-control" name="Cantidad" id="Cantidad" placeholder="Cantidad" min="1">
+                    </div>
+                    <div class="col-sm-3">
+                        <label class="control-label">Fecha:</label>
+                        <input type="datetime-local" class="form-control" name="fecha" id="fecha">
+                    </div>
+                    <div class="col-sm-2">
+
+                        <button type="submit" class="btn botonM btnAlter btn-lg btn-block"><span class="glyphicon glyphicon-saved"></span> Guardar</button>
+
+
+                    </div>
+
+                </div>
+
+            }
+
+            <div class="col-sm-11 col-sm-offset-1">
+                <div class="form-group ">
+                    <div class="text-left ">
+                        <h2>Datos de entrega</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+
+                <table>
+
+
+
+                    <table width=100% class="table  table-hover table-condensed table-striped" id="tablaLista" align="left">
+                        <thead>
+                            <tr class="bakinfo">
+                                <td width="5%">
+                                    <h4>No.</h4>
+                                </td>
+                                <td width="30%">
+                                    <h4>Intitución</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>Cantidad</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>Fecha</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>Estado</h4>
+                                </td>
+                                <td width="5%"> </td>
+                            </tr>
+                        </thead>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.No)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.cantidad)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fecha_hora)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.estatus)
+                                </td>
+
+                                <td align="center">
+                                    <button data-toggle="tooltip" title=" " type="submit" class="btn botonf gira  btnDanger btn-circle"><i class="glyphicon glyphicon-pencil"></i></button>
+                                </td>
+                            </tr>
+                        }
+
+                    </table>
+            </div>
+
+        </div>
+    </section>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript">
+             $(document).ready(function () {
+                 $("#cct_int").autocomplete({
+                     source: function (request, response) {
+                         $.ajax({
+                             url: "/Proveedor/autocompletadoentrega",
+                             type: "POST",
+                             dataType: "json",
+                             data: { cct_int: request.term },
+                             success: function (data) {
+                                 response($.map(data, function (item) {
+                                     return { label: item.nombre, value: item.nombre };
+                                 }))
+                             }
+                         })
+                     },
+                     messages: {
+                         noResults: "", results: ""
+                     }
+                 });
+             })
+</script>   

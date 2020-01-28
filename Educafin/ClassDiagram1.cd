@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Educafin.Models.AutocomEntreInt">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Autocompletar\AutocomEntreInt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.Alumno">
+    <Position X="7.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQUAAAAwAAAACAAAAAIAAAAAAAAACAAAAAIgAgAAU=</HashCode>
+      <FileName>Models\Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.BeneficiarioSinsesion">
+    <Position X="5.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAgAAAAQ=</HashCode>
+      <FileName>Models\AlumnoSinSesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.EntregaInstitucion">
+    <Position X="3" Y="20.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAQAAgACAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\EntregaInstitucion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.institucion">
+    <Position X="5" Y="17.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAgAAAQAACRBAAAAAAAAAAAAAAAAAEAFAAAAAM=</HashCode>
+      <FileName>Models\institucion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.InstitucionMasivoModel">
+    <Position X="0.5" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACQAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\InstitucionMasivoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.Model1">
+    <Position X="4.25" Y="14.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAEAAAAQAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\Model1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.proveedor">
+    <Position X="2.25" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACCCAAgACAAAACAAAAAIEAAAAAAAACAAAAAFAAAAAM=</HashCode>
+      <FileName>Models\proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.Proveedor_Institucion">
+    <Position X="4.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABAAABIACAAAAAIAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Proveedor_Institucion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Models.usuario">
+    <Position X="9.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACCDBQgAACAAACAAAAAIAACEABAgADAAAAAFgAAAAI=</HashCode>
+      <FileName>Models\usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.DatosController">
+    <Position X="4.5" Y="10.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAQBFAAAgACAAAAACAAQAAQAIAAAAAAE=</HashCode>
+      <FileName>Clases\Autocompletar\DatosController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.AdministradorController">
+    <Position X="26.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AADAAAHwFCARAADYASEAFABDBAEAYFACAAIUIAhgIoA=</HashCode>
+      <FileName>Controllers\AdministradorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.BeneficiarioController">
+    <Position X="7" Y="19" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAIAAAAAJAAAAAEAAIBAAAAAAAEAIAgBAAQ=</HashCode>
+      <FileName>Controllers\BeneficiarioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.HomeController">
+    <Position X="3.5" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAEAAAAAAAAACEAAABDAAAAgAEAAAABAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.InstitucionController">
+    <Position X="19.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIBAAJDQAAAAAQAQACEABAASBAAAAAAAAAAEAQABBAA=</HashCode>
+      <FileName>Controllers\InstitucionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.InstitucionPlantelesController">
+    <Position X="2.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAhAAACQAAAAAAAQACEABAACBAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Controllers\InstitucionPlantelesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Controllers.Proveedor_InstitucionController">
+    <Position X="2.25" Y="17" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACARAACAAAAAAAAAAAEAAEACAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\Proveedor_InstitucionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conexion">
+    <Position X="0.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAAAAAE=</HashCode>
+      <FileName>Clases\Conexion\Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosAlumnoAcuse">
+    <Position X="0.5" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggAAEUAEAAAAAAAgAgAAAAgAAAAAAAEAAgAAE=</HashCode>
+      <FileName>Clases\Genericas\DatosAlumnoAcuse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.CURP">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Genericas\CURP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Metodos">
+    <Position X="7.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Genericas\Metodos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Institucion.Models.Excel">
+    <Position X="0.5" Y="20" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARQCACAAABAAAAAAAABgAAQAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Genericas\Excel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Institucion.Models.PropiedadesExcel">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAABQAAA=</HashCode>
+      <FileName>Clases\Genericas\PropiedadesExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Transacciones.AdministradorTransacciones">
+    <Position X="23.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>SAIEAAhgAQAcAACIpAAEoEQJgDBEA2AQAAIDCAAAAAA=</HashCode>
+      <FileName>Clases\Transacciones\AdministradorTransacciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Transacciones.BeneficiarioTransacciones">
+    <Position X="10.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>SQAODRQhEwAoAQCWKIEQgVAMULBUiFCBAyAQEgAkAAI=</HashCode>
+      <FileName>Clases\Transacciones\BeneficiarioTransacciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Transacciones.HomeTransacciones">
+    <Position X="13.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>aEAEBZAgRAAAABCGZARNkFQIAABAAADARiAEBmAAAqA=</HashCode>
+      <FileName>Clases\Transacciones\HomeTransacciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Transacciones.InstitucionPlantelesTransacciones">
+    <Position X="7.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>YAAUARABQAIwBABAAAADiBgAAQBACAEAAI4FAQAcCAQ=</HashCode>
+      <FileName>Clases\Transacciones\InstitucionPlantelesTransacciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Transacciones.InstitucionTransacciones">
+    <Position X="30" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAUVhBCBAAAQVABQAAkKmQAAAQBQJMEAAA0EBUAQgAA=</HashCode>
+      <FileName>Clases\Transacciones\InstitucionTransacciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Educafin.Clases.Transacciones.ProveedorTransacciones">
+    <Position X="16.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gWMUoRVggUYQYJCAIAIU1VhIAY4MEiEtEsJHCDcCViQ=</HashCode>
+      <FileName>Clases\Transacciones\ProveedorTransacciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcApplication8.Controllers.ProveedorController">
+    <Position X="19.75" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AECAAAQQBAAAAAAEACRAgiAABIAAABAgAAEAIQgBCAA=</HashCode>
+      <FileName>Controllers\ProveedorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcApplication8.Models.Entregas">
+    <Position X="2.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAAAAAgACAAAAAAAAAACAAAAAAAAAQAAABAAA=</HashCode>
+      <FileName>Models\proveedorEntregas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcApplication8.Models.Institucion">
+    <Position X="0.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgAAAAIACQBAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Models\proveedorInstitucion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcApplication8.Models.Tableta">
+    <Position X="7.25" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAAAIACAAAAAAAAAACAABAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\proveedorTableta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,130 @@
+﻿@model IEnumerable<Educafin.Models.usuario>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int i = 1;
+}
+
+
+
+
+<section class="p10"></section>
+
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Usuarios</h1>
+                <h2>Registros</h2>
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-sm-1 col-xs-offset-11">
+
+                <button data-toggle="tooltip" title="Nueva Intitución" type="button"
+                        onclick="location.href='@Url.Action("Create", "Usuarios")'
+                                        " class="btn botonM rota btnWarning btn-circle btn-lg">
+                    <i class="glyphicon glyphicon-plus"></i>
+
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <div class="form-group">
+
+            <table width=100% class="table col-sm-12 table-hover table-condensed table-striped" id="tablaLista" align="left">
+                <thead>
+                    <tr class="bakinfo">
+                        <td width="5%">
+                            <h4>No.</h4>
+
+                        </td>
+                        <td width="15%">
+                            <h4>CURP</h4>
+
+                        </td>
+                        <td width="30%">
+                            <h4>Nombre</h4>
+
+                        </td>
+                        <td width="20%">
+                            <h4>Correo</h4>
+
+                        </td>
+                        <td width="20%">
+                            <h4>Pertene</h4>
+
+                        </td>
+                        <td width="5%"></td>
+                        <td width="5%"></td>
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td> @i </td>
+                        <td>
+                            @Html.DisplayFor(model => item.CURP)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.correo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.pertenece)
+                        </td>
+                        <td align="center">
+
+
+
+                            <button data-toggle="tooltip" title="@Html.DisplayFor(model => item.CURP)
+                                          @Html.DisplayFor(modelItem => item.nombre) " type="button"
+                                    onclick="location.href='@Url.Action("Details","Usuarios",new { id = item.CURP })'
+                                        " class="btn botonf gira  btnAlter btn-circle">
+                                <i class="glyphicon glyphicon-eye-open"></i>
+                            </button>
+
+                        </td>
+                        <td align="center">
+
+
+                            <button data-toggle="tooltip" title="@Html.DisplayFor(model => item.CURP)
+                                          @Html.DisplayFor(modelItem => item.nombre) " type="button"
+                                    onclick="location.href='@Url.Action("Edit","Usuarios",new { id = item.CURP })'
+                                        " class="btn botonf gira  btnDanger btn-circle">
+                                <i class="glyphicon glyphicon-pencil"></i>
+                            </button>
+
+
+                        </td>
+                    </tr> i++;
+                }
+            </table>
+        </div>
+    </div>
+</section>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../../libraries/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../js/jquery.flexslider-min.js"></script>
+<script src="../../js/main.js"></script>
+<script src="../../js/error.js"></script>
+<script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+</script>

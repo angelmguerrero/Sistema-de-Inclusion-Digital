@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "periodoDinalizado";
+}
+
+<section class="p10"></section>
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Periodo de entregas</h1>
+                <h2>NOTA: Al finalizar el periodo todos los beneficiarios quedaran inactivados del sistema</h2>
+            </div>
+        </div>
+    
+
+
+            <div class="@TempData["error"]">
+                <center>
+                    @TempData["message"]
+                </center>
+    </div>
+
+
+
+  
+
+        <form class="form-horizontal" role="form" action="" method="POST">
+
+            <div class="form-group ">
+                <div class="col-sm-4 col-sm-offset-3">
+                    <input type="hidden" name="baja" id="baja" value="baja" />
+              
+                        <button type="submit" class="btn boton btnPrimary btn-lg btn-block"><span class="glyphicon glyphicon-lock"></span> Finalizar</button>
+                  
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+</section>

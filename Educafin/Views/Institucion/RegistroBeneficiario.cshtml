@@ -1,0 +1,140 @@
+﻿@model List<Educafin.Models.Alumno>
+@{
+    ViewBag.Title = "RegistroBeneficiario";
+    string pertenece = (String)Session["pertenece"];
+}
+
+
+<body>
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Beneficiarios</h1>
+                    <h2>Registro</h2>
+                </div>
+            </div>
+
+            <div class="form-group ">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <h4>NOTA: Al subir el archivos con la información puede demorar </h4>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                @using (Html.BeginForm("RegistroBeneficiario", "Institucion", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <form name="importa" method="post" action="" enctype="multipart/form-data">
+                        <div class="col-sm-6 col-sm-offset-2">
+                            <label>Archivo de beneficiarios:</label>
+                            <div class="input-group">
+                                <span class="input-group-btn">
+                                    <button id="fake-file-button-browse"  data-toggle="tooltip" title="Seleccionar archivo" type="button" class="btn botonf btnAlter">
+                                        <span class="glyphicon glyphicon-file"></span>
+                                    </button>
+                                </span>
+                                <input type="file" id="files-input-upload" name="file" style="display:none" data-buttonBefore="true">
+                                <input type="text" id="fake-file-input-name" disabled="disabled" placeholder="Archivo no seleccionado" class="form-control">
+                                <span class="input-group-btn">
+                                    <button type="submit" class="btn btnWarning" data-toggle="tooltip" title="Cargar archivo" disabled="disabled" id="fake-file-button-upload" value="1" name="action">
+                                        <span class="glyphicon glyphicon-upload"></span>
+                                    </button>
+                                </span>
+
+                            </div>
+                        </div>
+                    </form>
+                }
+            </div>
+
+        </div>
+
+        <div class="form-group ">
+            <div class="col-sm-3 col-sm-offset-1">
+                <button type="submit" class="btn boton btnPrimary btn-lg btn-block" onclick="location.href='@Url.Action("DownloadFile", "Institucion")';"><span class="glyphicon glyphicon-save"></span> Descargar Lista</button>
+            </div>
+            <div class="col-sm-3 col-sm-offset-4">
+                <button type="submit" data-toggle="tooltip" title="Descargar formato para el registro de alumnos" class="btn boton btnDanger btn-lg btn-block" onclick="location.href='@Url.Action("DownloadFormato", "Institucion")';"><span class="glyphicon glyphicon-exclamation-sign"></span> Descargar Formato</button>
+            </div>
+        </div>
+
+        <div class="@TempData["error"]">
+            @TempData["message"]
+        </div>
+
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h2>Beneficiarios no Registrados </h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-10 col-sm-offset-1">
+                <table width=100% class="table col-sm-12 table-hover table-condensed table-striped" id="tabladatos" align="left">
+                    <thead>
+                        <tr class="bakinfo">
+                            <td width="5%">
+                                <h4>No.</h4>
+                            </td>
+                            <td width="20%">
+                                <h4>CURP</h4>
+                            </td>
+                            <td width="15%">
+                                <h4>Matricula</h4>
+                            </td>
+                            <td width="40%">
+                                <h4>Nombre</h4>
+                            </td>
+                            <td width="40%">
+                                <h4>Error</h4>
+                            </td>
+                        </tr>
+                    </thead>
+
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.no)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.curp)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.matricula)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.nombre)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.status)
+                            </td>
+                        </tr>
+
+                    }
+                </table>
+            </div>
+
+        </div>
+    </section>
+
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+
+    <script type="text/javascript">
+        // Fake file upload
+        document.getElementById('fake-file-button-browse').addEventListener('click', function () {
+            document.getElementById('files-input-upload').click();
+        });
+        document.getElementById('files-input-upload').addEventListener('change', function () {
+            document.getElementById('fake-file-input-name').value = this.value;
+            document.getElementById('fake-file-button-upload').removeAttribute('disabled');
+        });
+    </script>

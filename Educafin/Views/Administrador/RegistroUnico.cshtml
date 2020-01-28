@@ -1,0 +1,109 @@
+﻿
+
+@model List<Educafin.Models.Alumno>
+@{
+    ViewBag.Title = "RegistroUnico";
+    var cctTemp = (String)Session["cctTemp"];
+
+}
+
+
+<body>
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Beneficiarios</h1>
+                    <h2>Registro</h2>
+                </div>
+            </div>
+
+
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+
+                    <form class="form-horizontal" role="form" action="" method="POST">
+                        <div class="col-sm-4">
+                            <label class="control-label">CURP:</label>
+                            <input type="text" class="form-control" name="curp" id="curp" placeholder="CURP">
+                        </div>
+                        <div class="col-sm-4">
+                            <label class="control-label">Matricula:</label>
+                            <input type="text" class="form-control" name="matricula" id="matricula" placeholder="Matricula">
+                            <input type="hidden" name="parametro" id="parametro" value="consulta" />
+                        </div>
+                        <div class="col-sm-3">
+                            <button type="submit" class="btn botonM btnWarning btn-lg btn-block"><span class="glyphicon glyphicon-search"></span> Buscar</button>
+                        </div>
+                    </form>
+
+                </div>
+            }
+            <div class="form-group">
+
+                <div class="col-sm-11">
+                    <table width=100% class="table  table-hover table-condensed table-striped" id="tablaLista" align="left">
+                        <thead>
+                            <tr class="bakinfo">
+                                <td width="5%">
+                                    <h4>No.</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>CURP</h4>
+                                </td>
+                                <td width="15%">
+                                    <h4>Matricula</h4>
+                                </td>
+                                <td width="30%">
+                                    <h4>Nombre</h4>
+                                </td>
+                                <td width="30%">
+                                    <h4>Estatus</h4>
+                                </td>
+                            </tr>
+                        </thead>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.no)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.curp)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.matricula)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.status)
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+
+                @foreach (var item in Model)
+                {
+                    <form class="form-horizontal" role="form" action="" method="POST">
+                        <input type="hidden" id="curp" name="curp" value="@Html.DisplayFor(modelItem => item.curp)" />
+                        <input type="hidden" id="matricula" name="matricula" value="@Html.DisplayFor(modelItem => item.matricula)" />
+                        <input type="hidden" name="parametro" id="parametro" value="@Html.DisplayFor(modelItem => item.status)" />
+                        <div class="col-sm-3">
+                            <button type="submit" class="btn botonM btnAlter btn-lg btn-block"><span class="glyphicon glyphicon-ok"></span> Registrar</button>
+                        </div>
+                    </form>
+                }
+
+
+            </div>
+        </div>
+    </section>
+
+</body>
+

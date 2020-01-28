@@ -1,0 +1,120 @@
+﻿@model IEnumerable<Educafin.Models.usuario>
+
+
+@{
+    int i = 1;
+    int j = 0;
+    List<string> nombres = new List<string>();
+    nombres = ViewBag.datos;
+}
+
+
+<section class="p10"></section>
+
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Usuarios</h1>
+                <h2>Registros</h2>
+            </div>
+        </div>
+
+        <div class="@TempData["error"]">
+            @TempData["message"]
+        </div>
+
+        <div class="form-group">
+
+            <div class="col-sm-3">
+                <button type="submit" data-toggle="tooltip" title="Registro de Alumnos por archivos" class="btn botonM btnAlter btn-lg btn-block" onclick="location.href='@Url.Action("registroMasivoUsuarios", "Administrador")'"><span class="glyphicon glyphicon-file"></span> Cargar archivo</button>
+            </div>
+
+            <div class="col-sm-3 col-sm-offset-6">
+                <button data-toggle="tooltip" title="Nuevo Usuario" type="button"
+                        onclick="location.href='@Url.Action("CrearUsuario", "Administrador")'
+                                        " class="btn botonM rota btnWarning btn-circle btn-lg">
+                    <i class="glyphicon glyphicon-plus"></i>
+
+                </button>
+
+            </div>
+
+        </div>
+
+        <div class="form-group">
+
+            <table width=100% class="table col-sm-12 table-hover table-condensed table-striped" id="tabladatos" align="left">
+                <thead>
+                    <tr class="bakinfo">
+                        <td width="5%">
+                            <h4>No.</h4>
+
+                        </td>
+                        <td width="30%">
+                            <h4>Nombre</h4>
+
+                        </td>
+                        <td width="20%">
+                            <h4>Correo</h4>
+
+                        </td>
+                        <td width="35%">
+                            <h4>Pertenece</h4>
+
+                        </td>
+                        <td width="5%"></td>
+                        <td width="5%"></td>
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+                {
+                    if (((string)item.tipo) != "B" && ((string)item.tipo) != "A")
+                    {
+
+                        <tr>
+                            <td> @i </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.nombre) @Html.DisplayFor(modelItem => item.apellido_pat) @Html.DisplayFor(modelItem => item.apellido_mat)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.correo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.calle)
+                                <br>
+                                @Html.DisplayFor(modelItem => item.pertenece)
+                            </td>
+                            <td align="center">
+
+                                <button data-toggle="tooltip" title="@Html.DisplayFor(model => item.CURP)
+                                          @Html.DisplayFor(modelItem => item.nombre) " type="button"
+                                        onclick="location.href='@Url.Action("UsuarioDetails", "Administrador", new { id = item.CURP })'
+                                        " class="btn botonf gira  btnAlter btn-circle">
+                                    <i class="glyphicon glyphicon-eye-open"></i>
+                                </button>
+
+                            </td>
+                            <td align="center">
+
+
+                                <button data-toggle="tooltip" title="@Html.DisplayFor(model => item.CURP)
+                                          @Html.DisplayFor(modelItem => item.nombre)" type="button"
+                                        onclick="location.href='@Url.Action("UsuarioEdit", "Administrador", new { id = item.CURP })'
+                                        " class="btn botonf gira  btnDanger btn-circle">
+                                    <i class="glyphicon glyphicon-pencil"></i>
+                                </button>
+
+
+                            </td>
+                        </tr> i++;
+                    }
+
+                    j++;
+                }
+            </table>
+        </div>
+    </div>
+</section>
+
+

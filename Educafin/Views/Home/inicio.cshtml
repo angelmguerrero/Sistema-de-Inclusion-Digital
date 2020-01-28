@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Inicio";
+    string CURP = (String)Session["CURP"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="p10"></section>
+
+
+
+        <div class="login-container">
+            
+
+            <div class="form-group">
+                <div class="col-xs-8 col-xs-offset-2">
+                    <div id="output">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-box">
+                    <div id="output"></div>
+                <h1 align="center">¡BIENVENIDO!   </h1>
+                <h2 > @ViewBag.nombre1 </h2>
+                
+            </div>
+
+        </div>

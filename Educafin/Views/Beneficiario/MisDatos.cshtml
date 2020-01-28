@@ -1,0 +1,135 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Mis datos";
+}
+<link href="~/Content/estiloSW.css" rel="stylesheet" type="text/css" media="all" />
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Mis Datos</h1>
+                <h2>Modificar</h2>
+            </div>
+        </div>
+        <form class="form-horizontal" role="form" action="../Beneficiario/MisDatos" method="POST">
+            <input type="hidden" class="form-control" name="edad" id="edad" value="@ViewData["edad"]">
+            <input type="hidden" class="form-control" name="credencial" id="credencial" value="@ViewData["credencial"]">
+            
+
+            <div>
+                <div class="alert @TempData["error"]"> @TempData["message"]</div>
+            </div>
+            
+            <div class="form-group">
+                <div class="col-sm-3 ">
+                    <label class="control-label">Teléfono de casa:</label>
+                    <input type="number" value="@ViewData["telefono"]" class="form-control" name="telefonoc" id="telefonoc" placeholder="Teléfono de casa">
+                </div>
+                <div class="col-sm-3">
+                    <label class="control-label">Teléfono celular:</label>
+                    <input type="number" value="@ViewData["celular"]" class="form-control" name="telefonocl" id="telefonocl" placeholder="Teléfono celular">
+                </div>
+
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-sm-3">
+                    <label class="control-label">Código postal:</label>
+                    <input type="number" value="@ViewData["codigopostal"]" class="form-control" name="codigopostal" id="codigopostal" placeholder="Código Postal">
+                </div>
+                <div class="col-sm-4">
+                    <label class="control-label">Estado:</label>
+                    <input type="text" value="@ViewData["estado_r"]" class="form-control" name="estado" id="estado" placeholder="Estado">
+                </div>
+                <div class="col-sm-4">
+                    <label class="control-label">Municipio:</label>
+                    <input type="text" value="@ViewData["municipio"]" class="form-control" name="municipio" id="municipio" placeholder="Municipio">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-3 ">
+                    <label class="control-label">Colonia:</label>
+
+                    <select class="form-control" name="colonia" id="colonia">
+                        <option>@ViewData["colonia"]</option>
+                    </select>
+                </div>
+                <div class="col-sm-4">
+                    <label class="control-label">Calle:</label>
+                    <input type="text" value="@ViewData["calle"]" class="form-control" name="calle" id="calle" placeholder="Calle">
+                </div>
+                <div class="col-sm-2">
+                    <label class="control-label">Número Ext:</label>
+                    <input type="text" value="@ViewData["num_ext"]" class="form-control" name="numExt" id="numExt" placeholder="Número Ext">
+                </div>
+                <div class="col-sm-2">
+                    <label class="control-label">Número Int:</label>
+                    <input type="text" value="@ViewData["num_int"]" class="form-control" name="numInt" id="numInt" placeholder="Número Int">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-5" id="LeyendaCredencial">
+                    <!--style="display:none;"-->
+                    <label class="control-label">¿Cuentas con alguna credencial oficial vigente?</label><br />
+                    <div class="col-sm-6">
+                        Credencial del INE/IFE<br />
+                        Pasaporte<br />
+                        Licencia de manejo<br />
+                        Cartilla Militar
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="col-sm-2">
+                            <b>No</b>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="material-switch">
+                                <input id="someSwitchOptioninfo16240840" class="checkcuestionario" name="16240840" title="1" ;="" data-on="Si" data-off="No" type="checkbox">
+                                <label for="someSwitchOptioninfo16240840" class="label-success"></label>
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <b>Si</b>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+                <div class="col-sm-6" id="divtutor">
+                    <label class="control-label">Nombre de tutor:</label>
+
+                    <input type="text" class="form-control" name="tutor" id="tutor" placeholder="Nombre de tutor" value="@ViewData["tutor"]">
+                    <label class="control-label">Nota: El tutor debe contar con una credencial oficial vigente</label><br />
+                    Credencial del INE/IFE<br />
+                    Pasaporte<br />
+                    Licencia de manejo<br />
+                    Cedula Profesional
+                </div>
+
+            </div>
+
+
+
+
+            <div class="form-group ">
+                <div class="col-sm-3 col-sm-offset-2">
+                    <button type="submit" class="btn boton btnPrimary btn-lg btn-block">
+                        <span class="glyphicon glyphicon-ok"></span> Guardar
+                    </button>
+                </div>
+                <div class="col-sm-3 col-sm-offset-1">
+                    <button type="reset" class="btn boton btnDanger btn-lg btn-block" id="reset"><span class="glyphicon glyphicon-remove"></span> Cancelar</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</section>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

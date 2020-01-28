@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="p10"></section>
+
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Asignacion de Folios</h1>
+                <div class="alert @TempData["error"]"> @Html.Raw(TempData["Message"])</div>
+            </div>
+        </div>
+        <div class="form-group ">
+            <div class="col-sm-4 col-sm-offset-3">
+                <input type="button" class="btn boton btnPrimary btn-lg btn-block" value="Iniciar" onclick="Confirma()" />
+            </div>
+        </div>
+    </div>
+</section>

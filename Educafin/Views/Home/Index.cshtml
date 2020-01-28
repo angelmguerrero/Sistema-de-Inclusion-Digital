@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "SID";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="login-container">
+    <div id="output"></div>
+
+    <input type="hidden" id="mensajelogin" value="@ViewBag.error">
+
+    <div class="form-group">
+        <div class="col-xs-8 col-xs-offset-2">
+            <div id="output">
+            </div>
+        </div>
+    </div>
+
+    <div class="form-box">
+        <img src="~/img/EDUCAFIN SUBE.png" style="width:50%;margin-bottom: 20px;" />
+        @using (Html.BeginForm(null, null, new { @id = "" }, FormMethod.Post, new { @id = "formlogin" }))
+        {
+            <div id="output"></div>
+                    <input type="text" name="txtNombre" id="username" placeholder="CURP" />
+                    <input type="password" name="txtpass" id="password" placeholder="Contraseña" />
+                    <button class="btn btn-block boton btnPrimary btn-large login" type="submit" value="inicio">Login</button>
+        }
+
+        <div class="form-group">
+            <div class="text-left col-sm-6">
+                <label class="lickpass">@Html.ActionLink("Recuperar contraseña", "ForgotPass", "Home")</a></label>
+            </div>
+            <div class="text-right col-sm-6">
+                <label class="lickpass">@Html.ActionLink("No tengo contraseña", "Registro", "Beneficiario")</a></label>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>

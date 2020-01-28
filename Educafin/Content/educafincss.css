@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#bottom {
+    background: url("logo_footer.gif") no-repeat scroll right center transparent;
+    height: 80px;
+    margin: 10px;
+    margin-left: 55px;
+    color: #5f9cbd;
+}
+
+#footer {
+    width: 100%;
+    float: left;
+    background: url("footer.gif") repeat-x;
+    height: 110px;
+    margin-bottom: 3px;
+}
+
+p {
+    line-height: 1.7em;
+    margin: 8px 0;
+}
+
+body {
+    line-height: 150%;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+p,
+ul li,
+ol li,
+address,
+table,
+label,
+dt,
+dd {
+    font-size: 10pt
+}
+
+#contenido {
+    width: 972px;
+    height: auto;
+    float: left;
+    margin: 0;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+}
+
+#contenedor_derecha {
+    margin: 0 auto;
+    max-width: 972px;
+    padding: 0px;
+    text-align: left;
+    height: 100%;
+}
+
+#header {
+    width: 100%;
+    float: left;
+    margin-left: 10px;
+    padding: 0px 0 0 0;
+    margin-top: 15px;
+}
+
+#logoheader {
+    float: left;
+    height: 158px;
+    width: 105px;
+    margin-left: 30px;
+    background: url(logogto.png)no-repeat;
+}
+
+#top {
+    float: left;
+    width: 80%;
+    height: 157px;
+}
+
+div#maximenuCK ul.maximenuCK li.level0>a span.titreCK,
+div#maximenuCK ul.maximenuCK li.level0>span.separator span.titreCK {
+    color: #0C3D61;
+}
+
+div#maximenuCK span.titreCK {
+    color: #ffffff;
+    text-transform: none;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    min-height: 17px;
+    float: none !important;
+    float: left;
+}
+
+div#maximenuCK ul.maximenuCK li a.maximenuCK,
+div#maximenuCK ul.maximenuCK li span.separator {
+    text-decoration: none;
+    text-indent: 2px;
+    min-height: 27px;
+    outline: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: #0C3D61;
+    white-space: normal;
+}
+
+div#maximenuCK ul.maximenuCK li.maximenuCK {
+    background: none;
+    list-style: none;
+    border: none;
+}
+
+div.maximenuCKH ul.maximenuCK li.level0 {
+    float: left;
+    position: relative;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 110px;
+    color: #0C3D61;
+    padding: 0 12px;
+}
+
+                
+                
+                
+span.titreCK:hover {
+    color: rgb(250, 159, 88) !important;
+    
+  
+}

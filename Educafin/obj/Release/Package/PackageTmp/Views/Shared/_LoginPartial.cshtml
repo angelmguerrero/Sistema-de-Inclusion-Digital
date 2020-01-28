@@ -1,0 +1,59 @@
+﻿
+@if(false){
+<ul></ul>
+}
+@if (false)
+{
+
+<ul>
+    <li><a href="../login/inicio.html">Inicio</a></li>
+    <li><a href="../administrador/listaIntitucion.html">Instituciones</a></li>
+    <li><a href="../administrador/listaProveedor.html">Proveedores</a></li>
+    <li><a href="../administrador/listaIntitucion.html">Usuarios</a></li>
+    <li><a href="../administrador/listaIntitucion.html">Beneficiarios</a></li>
+    <li><a href="../login/login.html">Salir</a></li>
+</ul>
+
+}
+
+@if (true)
+{
+<ul>
+    <li><a href="../login/inicio.html">Inicio</a></li>
+    <li>@Html.ActionLink("Mis Datos", "Mydata", "Beneficiario")</li>
+    <li>@Html.ActionLink("Acuse", "updAcuses", "Beneficiario")</li>
+    <li><a href="../login/login.html">Salir</a></li>
+</ul>
+}
+@if (false)
+{
+
+<ul>
+    <li><a href="../login/inicio.html">Inicio</a></li>
+    <li><a href="../intitucion/listaBeneficiarios.html">Beneficiarios</a></li>
+    <li><a href="../intitucion/entregartableta.html">Entregas</a></li>
+    <li><a href="../login/login.html">Salir</a></li>
+</ul>
+
+}
+
+@if (false)
+{
+<ul>
+    <li><a href="../login/inicio.html">Inicio</a></li>
+    <li>@Html.ActionLink("Tabletas", "../Proveedor/tableta")</li>
+    <li>@Html.ActionLink("Entregas", "../Proveedor/Entrega")</li>
+    <li><a href="../login/login.html">Salir</a></li>
+</ul>
+}
+
+
+
+
+
+
+
+
+
+
+

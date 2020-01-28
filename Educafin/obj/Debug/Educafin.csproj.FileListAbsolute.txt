@@ -1,0 +1,1203 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\ApplicationInsights.config
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\csc.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\vbc.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Educafin.dll.config
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Educafin.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Educafin.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Antlr3.Runtime.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\EntityFramework.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\EntityFramework.SqlServer.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.Web.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Newtonsoft.Json.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Owin.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Helpers.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Mvc.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Optimization.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Razor.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.WebPages.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.WebPages.Razor.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\WebGrease.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.Web.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Helpers.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Mvc.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Optimization.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.Razor.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.WebPages.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\System.Web.WebPages.Razor.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Antlr3.Runtime.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Newtonsoft.Json.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\EntityFramework.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\EntityFramework.SqlServer.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\obj\Debug\Educafin.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Educafin\Educafin\obj\Debug\Educafin.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\ApplicationInsights.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\csc.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\vbc.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Educafin.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Educafin.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Educafin.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Owin.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Razor.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\WebGrease.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.Razor.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\obj\Debug\Educafin.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\obj\Debug\Educafin.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Educafin\Educafin\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+E:\Educafin\Educafin\Educafin\bin\ApplicationInsights.config
+E:\Educafin\Educafin\Educafin\bin\roslyn\csc.exe
+E:\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Educafin\Educafin\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Educafin\Educafin\Educafin\bin\roslyn\System.Collections.Immutable.dll
+E:\Educafin\Educafin\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+E:\Educafin\Educafin\Educafin\bin\roslyn\vbc.exe
+E:\Educafin\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe
+E:\Educafin\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe.config
+E:\Educafin\Educafin\Educafin\bin\Educafin.dll
+E:\Educafin\Educafin\Educafin\bin\Educafin.pdb
+E:\Educafin\Educafin\Educafin\bin\Antlr3.Runtime.dll
+E:\Educafin\Educafin\Educafin\bin\EntityFramework.dll
+E:\Educafin\Educafin\Educafin\bin\EntityFramework.SqlServer.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.Web.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.ApplicationInsights.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Web.Infrastructure.dll
+E:\Educafin\Educafin\Educafin\bin\Newtonsoft.Json.dll
+E:\Educafin\Educafin\Educafin\bin\Owin.dll
+E:\Educafin\Educafin\Educafin\bin\ReportViewerForMvc.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.Helpers.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.Mvc.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.Optimization.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.Razor.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Deployment.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.WebPages.dll
+E:\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Razor.dll
+E:\Educafin\Educafin\Educafin\bin\WebGrease.dll
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.Web.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.ApplicationInsights.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.Helpers.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.Mvc.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.Optimization.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.Razor.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.WebPages.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Deployment.xml
+E:\Educafin\Educafin\Educafin\bin\System.Web.WebPages.Razor.xml
+E:\Educafin\Educafin\Educafin\bin\Antlr3.Runtime.pdb
+E:\Educafin\Educafin\Educafin\bin\Newtonsoft.Json.xml
+E:\Educafin\Educafin\Educafin\bin\EntityFramework.xml
+E:\Educafin\Educafin\Educafin\bin\EntityFramework.SqlServer.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Educafin\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Educafin\Educafin\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+E:\Educafin\Educafin\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+E:\Educafin\Educafin\Educafin\obj\Debug\RdlCompile.cache
+E:\Educafin\Educafin\Educafin\obj\Debug\RdlCompile.compiled
+E:\Educafin\Educafin\Educafin\obj\Debug\Educafin.dll
+E:\Educafin\Educafin\Educafin\obj\Debug\Educafin.pdb
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\ApplicationInsights.config
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\csc.exe
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\vbc.exe
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Educafin.dll.config
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Educafin.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Educafin.pdb
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\EntityFramework.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Owin.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Razor.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\WebGrease.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.Razor.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\EntityFramework.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\obj\Debug\Educafin.dll
+C:\Users\Administrador\Documents\EDUCAFIN PARA COMPILAR\Educafin\Educafin\obj\Debug\Educafin.pdb
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\ApplicationInsights.config
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\csc.exe
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\vbc.exe
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Educafin.dll.config
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Educafin.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Educafin.pdb
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\EntityFramework.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Owin.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Helpers.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Mvc.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Optimization.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Razor.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.WebPages.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\WebGrease.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Helpers.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Mvc.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Optimization.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.Razor.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.WebPages.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\EntityFramework.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\obj\Debug\Educafin.dll
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\obj\Debug\Educafin.pdb
+C:\Users\Administrador.WIN-45Q4H6QQS40\Desktop\EDUCAFIN PARA COMPILAR\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\obj\Debug\Educafin.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\obj\Debug\Educafin.pdb
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\ApplicationInsights.config
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\csc.exe
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\vbc.exe
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Educafin.dll.config
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Educafin.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Educafin.pdb
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\EntityFramework.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Owin.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Helpers.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Mvc.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Optimization.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Razor.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.WebPages.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\WebGrease.dll
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Helpers.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Mvc.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Optimization.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.Razor.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.WebPages.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\EntityFramework.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IrvingArturo\Documents\EDUCAFIN\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\ApplicationInsights.config
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\csc.exe
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\System.Collections.Immutable.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\vbc.exe
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\VBCSCompiler.exe
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\VBCSCompiler.exe.config
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Educafin.dll.config
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Educafin.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Educafin.pdb
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Antlr3.Runtime.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.SqlServer.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.Web.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.WindowsServer.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.ApplicationInsights.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Google.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Web.Infrastructure.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Newtonsoft.Json.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Owin.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\ReportViewerForMvc.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Helpers.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Mvc.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Optimization.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Razor.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Deployment.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Razor.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\WebGrease.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.Web.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.WindowsServer.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.ApplicationInsights.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Helpers.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Mvc.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Optimization.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Razor.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Deployment.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Razor.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Antlr3.Runtime.pdb
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Newtonsoft.Json.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.SqlServer.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Google.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\RdlCompile.cache
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\RdlCompile.compiled
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.dll
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.pdb
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\ApplicationInsights.config
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\csc.exe
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\System.Collections.Immutable.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\vbc.exe
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\VBCSCompiler.exe
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\roslyn\VBCSCompiler.exe.config
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Educafin.dll.config
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Educafin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Educafin.pdb
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Antlr3.Runtime.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.SqlServer.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.Web.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.WindowsServer.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.ApplicationInsights.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Google.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Web.Infrastructure.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Newtonsoft.Json.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Owin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\ReportViewerForMvc.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Helpers.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Mvc.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Optimization.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Razor.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Deployment.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Razor.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\WebGrease.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.Web.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AI.WindowsServer.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.ApplicationInsights.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Helpers.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Mvc.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Optimization.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.Razor.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Deployment.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\System.Web.WebPages.Razor.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Antlr3.Runtime.pdb
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Newtonsoft.Json.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\EntityFramework.SqlServer.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Google.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.pdb
+E:\Linea Base\Proyecto Chidori\EDUCAFIN\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ApplicationInsights.config
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\csc.exe
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Collections.Immutable.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\vbc.exe
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe.config
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll.config
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.pdb
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Web.Infrastructure.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Owin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ReportViewerForMvc.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\WebGrease.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.pdb
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.dll
+D:\Linea Base\Proyecto Chidori\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.pdb
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ApplicationInsights.config
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\csc.exe
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\vbc.exe
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll.config
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.pdb
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Owin.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\WebGrease.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\RdlCompile.cache
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\RdlCompile.compiled
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.dll
+C:\Users\IrvingArturo\Documents\Linea Base Respaldo\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.pdb
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ApplicationInsights.config
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\csc.exe
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Collections.Immutable.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\vbc.exe
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe.config
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll.config
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.pdb
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Web.Infrastructure.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Owin.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ReportViewerForMvc.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\WebGrease.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.pdb
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\RdlCompile.cache
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\RdlCompile.compiled
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.dll
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.pdb
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ApplicationInsights.config
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\csc.exe
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Collections.Immutable.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\vbc.exe
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe.config
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll.config
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.pdb
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Web.Infrastructure.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Owin.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ReportViewerForMvc.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\WebGrease.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.pdb
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.dll
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.pdb
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ApplicationInsights.config
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\csc.exe
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\vbc.exe
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll.config
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Educafin.pdb
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Owin.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\WebGrease.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Helpers.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Mvc.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Optimization.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.Razor.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\RdlCompile.cache
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\RdlCompile.compiled
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.dll
+C:\Users\IrvingArturo\Desktop\Respaldo Memoria\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.pdb
+D:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+E:\Linea Base\Proyecto Chidori 2\EDUCAFIN 1.3 al 30 Oct 2017\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\ApplicationInsights.config
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\csc.exe
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\vbc.exe
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\VBCSCompiler.exe
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Educafin.dll.config
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Educafin.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Educafin.pdb
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Antlr3.Runtime.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\EntityFramework.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\EntityFramework.SqlServer.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.Web.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Newtonsoft.Json.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Owin.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\ReportViewerForMvc.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Helpers.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Mvc.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Optimization.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Razor.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.WebPages.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.WebPages.Razor.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\WebGrease.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.Web.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Helpers.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Mvc.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Optimization.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.Razor.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.WebPages.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\System.Web.WebPages.Razor.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Antlr3.Runtime.pdb
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Newtonsoft.Json.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\EntityFramework.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\EntityFramework.SqlServer.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\obj\Debug\Educafin.csprojResolveAssemblyReference.cache
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\obj\Debug\Educafin.csproj.ResolveComReference.cache
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\obj\Debug\RdlCompile.cache
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\obj\Debug\RdlCompile.compiled
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\obj\Debug\Educafin.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\obj\Debug\Educafin.pdb
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.ReportingServices.Interfaces.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\IrvingArturo\Desktop\EDUCAFIN 1.4 al 16 Nov 2017\Educafin\bin\Microsoft.SqlServer.Types.dll

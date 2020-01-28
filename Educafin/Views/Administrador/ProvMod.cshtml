@@ -1,0 +1,139 @@
+﻿@model Educafin.Models.proveedor
+
+@{
+    ViewBag.Title = "Editar Proveedor";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Proveedor</h1>
+                    <h2>Modificación</h2>
+                </div>
+                <div class="@TempData["error"]"> @Html.Raw(TempData["Message"])</div>
+            </div>
+            <div class="form-horizontal">
+
+                <div class="form-group">
+                    <div class="col-sm-3 ">
+                        <label class="control-label">RFC:</label>
+                        @Html.ValidationSummary(true, "", new { @class = "form-control" })
+                        @Html.EditorFor(model => model.RFC, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                        @Html.HiddenFor(model => model.RFC)
+                    </div>
+
+                    <div class="col-sm-8">
+                        <label class="control-label">Nombre de la empresa:</label>
+                        @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+
+                    <div class="col-sm-3 ">
+                        <label class="control-label">Teléfono:</label>
+                        @Html.EditorFor(model => model.telefono, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.telefono, "", new { @class = "text-danger" })
+
+
+
+
+                    </div>
+
+                    <div class="col-sm-3">
+                        <label class="control-label">Correo electrónico:</label>
+
+                        @Html.EditorFor(model => model.correo, new { htmlAttributes = new { @class = "form-control", @type = "email" } })
+                        @Html.ValidationMessageFor(model => model.correo, "", new { @class = "text-danger" })
+
+
+                    </div>
+                    <div class="col-sm-5">
+                        <label class="control-label">Representante legal:</label>
+                        @Html.EditorFor(model => model.representante, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.representante, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-3">
+                        <label class="control-label">Código postal:</label>
+                        @Html.EditorFor(model => model.codigopostal, new { htmlAttributes = new { @class = "form-control", @type= "number" } })
+                        @Html.ValidationMessageFor(model => model.codigopostal, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-sm-4">
+                        <label class="control-label">Estado:</label>
+                        @Html.EditorFor(model => model.estado, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.estado, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-sm-4">
+                        <label class="control-label">Municipio:</label>
+                        @Html.EditorFor(model => model.municipio, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.municipio, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+
+                    <div class="col-sm-3 ">
+                        <label class="control-label">Colonia:</label>
+                        <select class="form-control" name="colonia" id="colonia">
+                            <option value="@Html.DisplayFor(model => model.colonia)" selected>@Html.DisplayFor(model => model.colonia)</option>
+                        </select>
+                    </div>
+
+
+                    <div class="col-sm-4">
+                        <label class="control-label">Calle:</label>
+                        @Html.EditorFor(model => model.calle, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.calle, "", new { @class = "text-danger" })
+                    </div>
+
+
+                    <div class="col-sm-2">
+                        <label class="control-label">Número Ext:</label>
+                        @Html.EditorFor(model => model.num_ext, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.num_ext, "", new { @class = "text-danger" })
+                    </div>
+
+
+                    <div class="col-sm-2">
+                        <label class="control-label">Número Int:</label>
+                        @Html.EditorFor(model => model.num_int, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.num_int, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-3 col-sm-offset-2">
+                        <button type="submit" class="btn boton btnPrimary btn-lg btn-block"><span class="glyphicon glyphicon-ok"></span> Guardar</button>
+                    </div>
+                    <div class="col-sm-3 col-sm-offset-1">
+
+                        <button type="reset" onclick="location.href='@Url.Action("Proveedor", "Administrador")'" class="btn boton btnDanger btn-lg btn-block"
+                                id="reset">
+                            <span class="glyphicon glyphicon-remove"></span> Cancelar
+                        </button>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

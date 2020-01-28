@@ -1,0 +1,145 @@
+﻿@model IEnumerable<Educafin.Models.EntregaInstitucion>
+
+@{
+    ViewBag.Title = "entregainstitucion";
+}
+
+
+    <div class="col-sm-11 col-sm-offset-1 form-horizontal">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Entregas</h1>
+                <h2>Registrar entrega recibida</h2>
+            </div>
+        </div>
+        @if (ViewBag.Error == "cantidad")
+        {
+            <div>
+                <label>@ViewBag.Cantidadprovedor  </label>
+            </div>
+        }
+        @if (ViewBag.Error == "fec")
+        {
+            <div>
+                <label>@ViewBag.Cantidadprovedor  </label>
+            </div>
+        }
+
+        @using (Html.BeginForm())
+            {
+            <div class="form-group">
+                <div class="col-sm-4">
+                    <label class="control-label">Proveedor:</label>
+                    <input type="text" class="form-control" name="pRFC" id="pRFC" placeholder="Proveedor">
+                </div>
+                <div class="col-sm-2" id="canti">
+                    <label class="control-label">Cantidad:</label>
+                    <input type="number" class="form-control" name="Cantidad" id="Cantidad" placeholder="Cantidad" min="1">
+                </div>
+                </div>
+                <div class="form-group">
+                    
+                    <div class="col-sm-3" id="fech">
+                        <label class="control-label">Fecha:</label>
+                        <input type="datetime-local" class="form-control" name="fecha" id="fecha">
+                    </div>
+                    <div class="col-sm-4" id="res">
+                        <label class="control-label">Responsable:</label>
+                        <input type="text" class="form-control" name="responsable" id="responsable" placeholder="responsable">
+                    </div>
+                    <div class="col-sm-2">
+                        <button type="submit" id="guardaentregaint" class="btn botonM btnAlter btn-lg btn-block"><span class="glyphicon glyphicon-saved"></span> Guardar</button>
+                    </div>
+                </div>
+        }
+
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h2>Datos de entrega</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group col-sm-11">
+
+
+            <table width=100% class="table  table-hover table-condensed table-striped" id="tablaLista" align="left">
+                <thead>
+                    <tr class="bakinfo">
+                        <th width="5%">
+                            @Html.DisplayNameFor(model => model.No)
+                        </th>
+                        <th width="25%">
+                            @Html.DisplayNameFor(model => model.nombre)
+                        </th>
+
+                        <th width="20%">
+                            @Html.DisplayNameFor(model => model.cantidad)
+                        </th>
+
+                        <th width="30%">
+                            @Html.DisplayNameFor(model => model.fecha)
+                        </th>
+                        <th width="20%">
+                            @Html.DisplayNameFor(model => model.responsable)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.No)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.cantidad)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.fecha)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.responsable)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+
+    </div>
+<script type="text/javascript">
+    $("#guardaentregaint").hide();
+    $("#Cantidad").change(function () {
+        if ($("#responsable").val() != "" && $("#fecha").val() != "" && $("#Cantidad").val() != 0) {
+            $("#guardaentregaint").show();
+            } else {
+            $("#guardaentregaint").hide();
+        }
+    });
+    $("#responsable").change(function () {
+        if ($("#responsable").val()!="" && $("#fecha").val()!="" && $("#Cantidad").val()!=0) {
+            $("#guardaentregaint").show();
+
+        } else {
+            $("#guardaentregaint").hide();
+        }
+    });
+    $("#fecha").change(function () {
+        if ($("#responsable").val() != "" && $("#fecha").val() != "" && $("#Cantidad").val() != 0) {
+            $("#guardaentregaint").show();
+
+        } else {
+            $("#guardaentregaint").hide();
+        }
+
+
+    });
+</script>
+

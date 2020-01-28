@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Acuses";
+}
+
+
+<section class="p10"></section>
+
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Acuse de recibo</h1>
+                <h2>descargar</h2>
+            </div>
+        </div>
+        <form class="form-horizontal" role="form" action="../Beneficiario/GeneraPDF" method="POST">
+
+            <div class="form-group ">
+                <div class="col-sm-4 col-sm-offset-3">
+                    <button type="submit" class="btn boton btnPrimary btn-lg btn-block"><span class="glyphicon glyphicon-save"></span> Descargar</button>
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+</section>

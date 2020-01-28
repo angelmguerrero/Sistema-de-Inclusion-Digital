@@ -1,0 +1,125 @@
+﻿@model List<Educafin.Models.Alumno>
+
+@{
+    ViewBag.Title = "ListaBeneficiario";
+    string pertenece = (String)Session["pertenece"];
+}
+
+
+<body>
+
+
+    <section class="p10"></section>
+
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Beneficiarios</h1>
+                    <h2>Registrados</h2>
+                </div>
+            </div>
+            <div class=" @TempData["error"]" > @Html.Raw(TempData["Message"])</div>
+
+            <div class="form-group">
+                <div class="col-sm-3">
+                    <button data-toggle="tooltip" title="Nuevo Alumno" type="submit" class="btn botonM rota btnWarning btn-circle btn-lg" onclick="location.href='@Url.Action("RegistroUnico", "Institucion")'"><i class="glyphicon glyphicon-plus"></i></button>
+                </div>
+                <div class="col-sm-3 col-sm-offset-6">
+                    <input type="button" data-toggle="tooltip" title="Asignar folio a cada alumno registrado" class="btn botonM btnDanger btn-lg btn-block" value="Asigna Folios" onclick="Confirma()" />
+                </div>
+
+                 @if ((String)Session["tipo"] == "MI")
+                 {
+                <div class="col-sm-6">
+                    <button type="submit" data-toggle="tooltip" title="Registro de Alumnos con datos por archivos" class="btn botonM btnAlter btn-lg btn-block" onclick="location.href='@Url.Action("RegistroBenefDatos", "Institucion")'"><span class="glyphicon glyphicon-file"></span> Matricular Datos</button>
+                </div>
+                 }
+            </div>
+                <div class="form-group">
+                    
+                    <div class="col-sm-3">
+                        <button type="submit" data-toggle="tooltip" title="Registro de Alumnos por archivos" class="btn botonM btnAlter btn-lg btn-block" onclick="location.href='@Url.Action("RegistroBeneficiario", "Institucion")'"><span class="glyphicon glyphicon-file"></span> Cargar archivo</button>
+                    </div>
+                    
+                    <div class="col-sm-3 col-sm-offset-6">
+                        <button type="submit" data-toggle="tooltip" title="Descargar lista de alumnos registrados" class="btn botonM btnPrimary btn-lg btn-block" onclick="location.href='@Url.Action("DownloadBeneficiario", "Institucion")';"><span class="glyphicon glyphicon-save"></span> Descargar Lista</button>
+                    </div>
+
+                    
+                </div>
+
+
+                <div class="form-group">
+
+                    <table width=100% class="table col-sm-12 table-hover table-condensed table-striped" id="tabladatos" align="left">
+                        <thead>
+                            <tr class="bakinfo">
+                                <td width="5%">
+                                    <h4>No.</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>CURP</h4>
+                                </td>
+                                <td width="15%">
+                                    <h4>Matricula</h4>
+                                </td>
+                                <td width="30%">
+                                    <h4>Nombre</h4>
+                                </td>
+                                <td width="5%"></td>
+                            </tr>
+                        </thead>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.no)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.curp)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.matricula)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.nombre)
+                                </td>
+                                <td align="center">
+
+                                    @using (Html.BeginForm())
+                                    {
+                                        @Html.ValidationSummary(true)
+                                        <form class="form-horizontal" role="form" action="" method="POST">
+                                            <div>
+                                                <input type="hidden" id="update" name="update" value="@Html.DisplayFor(modelItem => item.curp)" />
+                                                <button data-toggle="tooltip" title="Dar de baja al alumno @Html.DisplayFor(modelItem => item.curp)" type="submit" class="btn botonf gira  btnDanger btn-circle">
+                                                    <i class="glyphicon glyphicon-trash"></i>
+                                                </button>
+
+
+                                            </div>
+                                        </form>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+            </div>
+    </section>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../libraries/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../js/jquery.flexslider-min.js"></script>
+    <script src="../../js/main.js"></script>
+    <script src="../../js/error.js"></script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+
+</body>

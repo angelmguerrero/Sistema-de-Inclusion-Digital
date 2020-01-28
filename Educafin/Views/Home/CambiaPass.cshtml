@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "SID";
+}
+
+
+
+<div class="container">
+    <div class="login-container">
+        <!--form class="" role="form" action="" method="post">-->
+        @using (Html.BeginForm())
+        {
+
+            <div class="form-group">
+                <div class="input-group col-xs-10 col-xs-offset-1">
+                    <div class="input-group-addon"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span></div>
+                    <input type="password" class="form-control" id="passwordR" name="Campassword" placeholder="Nueva Contraseña">
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group col-xs-10 col-xs-offset-1 " id="otraPass">
+                    <div class="input-group-addon"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span></div>
+                    <input type="password" class="form-control" id="passwordR2" name="pass" placeholder="Confirmar Contraseña">
+                    <span class="errorI glyphicon glyphicon-remove form-control-feedback" aria-hidden="true"></span>
+                    <span id="inputError2Status" class="errorI sr-only">(error)</span>
+                </div>
+                <div class="input-group col-xs-10 col-xs-offset-1">
+                    <div class="alert alert-danger" id="errorPass">
+                        <label class="alert-danger">Las constraseñas no coinciden</label>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="form-group ">
+                <div class="col-xs-10 col-xs-offset-1">
+                    <button type="submit" id="enviar" class="btn btn-primary btn-lg btn-block"> <span class="glyphicon glyphicon-pencil"></span> Guardar</button>
+                </div>
+            </div>
+            <br/>
+        }
+        <!--</form> -->
+
+    </div>
+</div>
+   

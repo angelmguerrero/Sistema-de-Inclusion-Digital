@@ -1,0 +1,97 @@
+﻿@model List<Educafin.Models.Alumno>
+@{
+    ViewBag.Title = "usuariosTemporales";
+    string pertenece = (String)Session["pertenece"];
+}
+
+<!DOCTYPE html>
+<html lang="es" class="no-js">
+
+
+
+<body>
+    <section class="container form-horizontal ">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h1>Usuarios para entregas</h1>
+                    <h2>Nota: Los usuarios solo podran usar el sistema por un maximo de 3 días</h2>
+                    <h2>La contraseña de los usuarios sera el CCT de su institución</h2>
+                </div>
+            </div>
+
+            <div class="alert @TempData["Message"]"> @Html.Raw(TempData["Message"])</div>
+
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+
+                    <form class="form-horizontal" role="form" action="" method="POST">
+                        <div class="col-sm-4">
+                            <label class="control-label">CURP:</label>
+                            <input type="text" class="form-control" name="curp" id="curp" placeholder="CURP">
+                        </div>
+                        <div class="col-sm-3">
+                            <button type="submit" data-toggle="tooltip" title="consultar exitencia de curp" class="btn botonM btnWarning btn-lg btn-block"><span class="glyphicon glyphicon-search"></span> Registrar </button>
+                        </div>
+                    </form>
+
+                </div>
+            }
+
+
+
+            <div class="form-group">
+                <div class="col-sm-11">
+                    <table width=100% class="table  table-hover table-condensed table-striped" id="tablaLista" align="left">
+                        <thead>
+                            <tr class="bakinfo">
+                                <td width="5%">
+                                    <h4>No.</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>CURP</h4>
+                                </td>
+                                <td width="20%">
+                                    <h4>Nombre</h4>
+                                </td>
+                            </tr>
+                        </thead>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.no)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.curp)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.nombre)
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../libraries/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../js/jquery.flexslider-min.js"></script>
+    <script src="../../js/main.js"></script>
+    <script src="../../js/error.js"></script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+
+</body>
+
+</html>

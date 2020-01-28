@@ -1,0 +1,102 @@
+﻿@model IEnumerable<MvcApplication8.Models.Tableta>
+
+@{
+    ViewBag.Title = "tabletaeliminar";
+}
+<section class="p10"></section>
+
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+                <h1>Tabletas</h1>
+                <h2>Tabletas Registradas</h2>
+            </div>
+        </div>
+        @*<div class="form-group">
+            <div class="col-sm-3 col-sm-offset-9">
+                <button type="button" data-toggle="tooltip" title="Registro de Tabletas" id="Button1" onclick="location.href='@Url.Action("tabletaMP", "Proveedor")'" class="btn botonM btnAlter btn-lg btn-block"><span class="glyphicon glyphicon-plus"></span> Registro de Tabletas </button>
+
+                </div>
+            </div>*@
+
+            @using (Html.BeginForm("eliminarinstitucionMP", "Proveedor", new { enctype = "multipart/form-data" }))
+            {
+                <div class="form-group">
+
+                    <div class="col-sm-4">
+                        <label class="control-label">Eliminar tabletas de la institución (CCT):</label>
+                        <input type="text" id="cct_intELIM" name="cct_intELIM" class="form-control" />
+                    </div>
+                    <div class="col-sm-3">
+                        <button type="submit" id="Button1" class="btn botonM btnDanger btn-lg btn-block"><span class="glyphicon glyphicon-trash"></span> Eliminar</button>
+                    </div>
+
+                </div>
+            }
+
+            <div class="form-group ">
+                <div class="col-sm-3 col-sm-offset-9">
+                    <button type="submit" class="btn boton btnPrimary btn-lg btn-block" onclick="location.href='@Url.Action("TabletasEntregadas", "Proveedor")';" style="margin-top: -65px;"><span class="glyphicon glyphicon-save"></span> Descargar Lista</button>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+
+
+                <table width=100% class="table  table-hover table-condensed table-striped" id="tabladatos" align="left">
+                    <thead>
+                        <tr class="bakinfo">
+                            <th width="5%">
+                                @Html.DisplayNameFor(model => model.No)
+                            </th>
+                            <th width="30%">
+                                @Html.DisplayNameFor(model => model.serie)
+                            </th>
+
+                            <td width="35%">
+                                <h4>Intitución</h4>
+
+                            </td>
+                            <th "25%">
+                                @Html.DisplayNameFor(model => model.estado)
+                            </th>
+                            <th width="5%">Eliminar</th>
+                        </tr>
+
+                    </thead>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.No)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.serie)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.nombre)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.estado)
+                            </td>
+                            <td>
+                                <button data-toggle="tooltip" type="button"
+                                        onclick="location.href='@Url.Action("eliminarMP","Proveedor",new { id = item.serie })'
+                                        " class="btn botonf gira  btnAlter btn-circle">
+                                    <i class="glyphicon glyphicon-trash"></i>
+                                </button>
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+
+
+            </div>
+        </div>
+
+
+
+</section>

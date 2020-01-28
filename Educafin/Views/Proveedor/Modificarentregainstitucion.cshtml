@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+<section class="p10"></section>
+
+<section class="container form-horizontal ">
+    <div class="col-sm-11 col-sm-offset-1">
+        <div class="form-group ">
+            <div class="text-left ">
+
+                <h1>Entregas</h1>
+                <h2>Registro</h2>
+            </div>
+        </div>
+
+        @using (Html.BeginForm())
+        {
+
+            <div class="form-group">
+                <div class="col-sm-4">
+                    <label class="control-label">Proveedor:</label>
+
+                    <input type="text" value="@(ViewBag.proveedor)" class="form-control" name="nombre" id="nombre" placeholder="Proveedor" readonly="readonly">
+                </div>
+
+
+                <div class="col-sm-2">
+                    <label class="control-label">Cantidad:</label>
+                    <input type="number" class="form-control" name="cantidadI" id="cantidadI" placeholder="Cantidad" min="1">
+                </div>
+                <div class="col-sm-3">
+                    <label class="control-label">Fecha:</label>
+                    <input type="datetime-local" class="form-control" name="fecha_institucion" id="fecha_institucion">
+                </div>
+                <div class="col-sm-2">
+
+                    <button type="submit" class="btn botonM btnAlter btn-lg btn-block"><span class="glyphicon glyphicon-saved"></span>Guardar</button>
+
+
+                </div>
+
+            </div>
+                <input type="text" value="@(ViewBag.clave)" name="clave" id="clave" style="visibility:hidden">
+
+        }
+
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="form-group ">
+                <div class="text-left ">
+                    <h2>Datos de entrega</h2>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
